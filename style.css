@@ -1,0 +1,33 @@
+body  {
+    background-image: url("https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg")
+}
+
+h1 {
+    background-color: blue;
+    padding: 20px;
+    color: red;
+    text-indent: 400px;
+    font-size: : 200px;
+}
+
+.animalbutton{
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    background-color: beige;
+    color: black;
+}
+
+h4{
+    margin-left: 700px;
+}
+
+#theButton{
+    margin-left: 700px;
+}
+
+#gif-input{
+    margin-left: 700px;
+}
+
